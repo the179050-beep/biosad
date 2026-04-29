@@ -17,26 +17,22 @@ import { useState } from "react";
 const links = [
   {
     name: "احصل على عرض سعر",
-    url: "#",
-    icon: <Calculator className="w-5 h-5" />,
+    url: "https://app.tmsndwq.com/",    icon: <Calculator className="w-5 h-5" />,
     description: "احسب تكلفة تأمين سيارتك في ثوانٍ",
   },
   {
     name: "التأمين الشامل",
-    url: "#",
-    icon: <ShieldCheck className="w-5 h-5" />,
+    url: "https://app.tmsndwq.com/",    icon: <ShieldCheck className="w-5 h-5" />,
     description: "تغطية كاملة لك وللآخرين وللمركبة",
   },
   {
     name: "تأمين ضد الغير",
-    url: "#",
-    icon: <FileText className="w-5 h-5" />,
+    url: "https://app.tmsndwq.com/",    icon: <FileText className="w-5 h-5" />,
     description: "الخيار الاقتصادي والالتزام بالنظام",
   },
   {
     name: "المساعدة على الطريق",
-    url: "#",
-    icon: <Truck className="w-5 h-5" />,
+    url: "https://app.tmsndwq.com/",    icon: <Truck className="w-5 h-5" />,
     description: "نحن معك 24/7 في حال حدوث أي عطل",
   },
   {
